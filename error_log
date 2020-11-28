@@ -1,0 +1,160 @@
+[06-Sep-2020 10:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:34
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 34
+[06-Sep-2020 10:18:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:34
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 34
+[06-Sep-2020 10:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:23
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 23
+[06-Sep-2020 10:21:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:23
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 23
+[06-Sep-2020 10:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:23
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 23
+[06-Sep-2020 10:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:23
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 23
+[06-Sep-2020 10:22:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:23
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 23
+[06-Sep-2020 10:23:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:24
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 24
+[06-Sep-2020 10:23:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:24
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 24
+[06-Sep-2020 10:23:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:24
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 24
+[06-Sep-2020 10:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:24
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 24
+[06-Sep-2020 10:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:24
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 24
+[06-Sep-2020 10:25:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:24
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 24
+[06-Sep-2020 10:26:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:24
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 24
+[06-Sep-2020 10:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:22
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 22
+[06-Sep-2020 10:28:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:20
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 20
+[06-Sep-2020 10:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:20
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 20
+[06-Sep-2020 10:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpex_pagination() in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php:20
+Stack trace:
+#0 /home/netbear/autoservis-eim.shop/wp-includes/template-loader.php(106): include()
+#1 /home/netbear/autoservis-eim.shop/wp-blog-header.php(19): require_once('/home/netbear/a...')
+#2 /home/netbear/autoservis-eim.shop/index.php(17): require('/home/netbear/a...')
+#3 {main}
+  thrown in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/category-blog.php on line 20
+[07-Sep-2020 10:17:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 10:17:49 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 10:18:48 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 10:18:48 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 10:20:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 10:20:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 10:20:58 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 10:20:58 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 10:43:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 10:43:39 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 11:49:10 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 11:49:10 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 11:51:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 11:51:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 11:53:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 11:53:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 11:53:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 11:53:57 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 12:04:58 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 12:04:58 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 12:06:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 12:06:37 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 12:07:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 12:07:17 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 12:07:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 12:07:32 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[07-Sep-2020 12:10:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 10
+[07-Sep-2020 12:10:25 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home/netbear/autoservis-eim.shop/wp-content/themes/autoservis/index.php on line 12
+[10-Sep-2020 09:36:19 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata
+[10-Sep-2020 09:36:19 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata
+[10-Sep-2020 09:36:19 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_usermeta` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata, add_metadata
+[10-Sep-2020 09:36:19 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_usermeta` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata, add_metadata
+[11-Sep-2020 06:52:11 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT umeta_id FROM wp_usermeta WHERE meta_key = 'wp_yoast_notifications' AND user_id = 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata
+[11-Sep-2020 06:52:11 UTC] WordPress database error Commands out of sync; you can't run this command now for query SHOW FULL COLUMNS FROM `wp_usermeta` made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Yoast_Notification_Center->update_storage, array_walk, Yoast_Notification_Center->store_notifications_for_user, update_user_option, update_user_meta, update_metadata, add_metadata
